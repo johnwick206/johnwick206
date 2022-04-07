@@ -11,13 +11,22 @@
 
 # About ME 💬 :
 
-- 👋 Hi, I’m Bhavesh Dhake aka @wickywanka, a 19 year old Cyber Security Enthusiast from India.
-- 👀 I’m interested in Network Security, Information Security.....   all the Cyber Security Stuff.
-- 🌱 I’m currently learning Threat Intelligence, Security Architecture.
-- 💞️ I’m looking to collaborate on publishing a Research Paper or Working on a project in Cyber Security.
-- 📫 How to reach me ...
-          You can reach me via email : bhaveshdhake4852@gmail.com
-          Linkedin : https://www.linkedin.com/in/bdhake/
+### - 👋 Hi, I’m Bhavesh Dhake aka @wickywanka, a 19 year old Cyber Security Enthusiast from India.
+
+### - Learning :
+
+- 👀 Threat Intelligence
+- 👀 Malware Analysis
+- 👀 Digital Forensics & Incident Resopnse........ basically all the Cyber Security Stuff.
+
+### - Hobbies : 
+
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Tinkering with Tech
+- ✨ Swimming (State Level)
+- ✨ Calisthenics
+
 
 
 <!---
