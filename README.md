@@ -48,7 +48,8 @@
 <img src="https://github.com/wickywanka/wickywanka/blob/main/assets/java.svg">
 <img src="https://github.com/wickywanka/wickywanka/blob/main/assets/js.svg">
 <img src="https://github.com/wickywanka/wickywanka/blob/main/assets/php.svg">
-<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/Group%201498.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/Group%201498.png">
+
 
   
 <!---
