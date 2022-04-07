@@ -38,9 +38,18 @@
 
 <p align="center">
 <img src="https://github.com/wickywanka/wickywanka/blob/main/assets/python.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/Group%201493.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/Group%201495.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/css3.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/dart_colour.svg">
+</br>
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/go.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/html.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/java.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/js.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/php.svg">
 
-
-
+  
 <!---
 johnwick206/johnwick206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
