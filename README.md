@@ -37,7 +37,7 @@
 </br>
 
 <p align="center">
-<img src="https://github.com/wickywanka/wickywanka/assets/python.svg">
+<img src="https://github.com/wickywanka/wickywanka/blob/main/assets/python.svg">
 
 
 
