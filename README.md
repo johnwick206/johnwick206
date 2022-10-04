@@ -12,8 +12,8 @@
 | ------------- | ---------------------------------------------------------------:|
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wickywanka&count_private=true&fire=orange&ring=lightblue&sideLabels=pink&currStreakLabel=white&theme=dark&align=right&width=40%)](https://git.io/streak-stats) |
-| ------------- | ---------------------------------------------------------------:|
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wickywanka&count_private=true&fire=orange&ring=lightblue&sideLabels=pink&currStreakLabel=white&theme=dark&align=center&width=40%)](https://git.io/streak-stats) |
+
 
 
 
