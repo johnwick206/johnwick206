@@ -11,8 +11,8 @@
 | 👀 **Profile Views** | ![visitors](https://profile-counter.glitch.me/wickywanka/count.svg?align=center) |
 | ------------- | ---------------------------------------------------------------:|
 
-<!--  TOP LANGUAGES STATISTICS -->
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wickywanka&include_all_commits=true&count_private=true&theme=dark&layout=compact&align=left&width=40%)](https://github.com/wickywanka/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wickywanka&count_private=true&fire=orange&ring=lightblue&sideLabels=pink&currStreakLabel=white&theme=dark&align=right&width=40%)](https://git.io/streak-stats) |
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wickywanka&count_private=true&fire=orange&ring=lightblue&sideLabels=pink&currStreakLabel=white&theme=dark&align=right&width=40%)](https://git.io/streak-stats) |
 | ------------- | ---------------------------------------------------------------:|
 
 
