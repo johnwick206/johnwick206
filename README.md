@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wickywanka&theme=discord&no-frame=true" alt="wickywanka" /></a> </p>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
+<img hight="400" width="350" alt="GIF" align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **Threat Intelligence and DFIR**
 
