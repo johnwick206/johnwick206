@@ -8,8 +8,6 @@
 </br>
 </br>
 
-| 👀 **Profile Views** | ![visitors](https://profile-counter.glitch.me/wickywanka/count.svg?align=center) |
-| ------------- | ---------------------------------------------------------------:|
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wickywanka&count_private=true&fire=orange&ring=lightblue&sideLabels=pink&currStreakLabel=white&theme=dark&align=center&width=40%)](https://git.io/streak-stats) |
@@ -34,7 +32,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Tinkering with Tech
-- ✨ Swimming (State Level)
+- ✨ Swimming 
 - ✨ Calisthenics
 
 </br>
