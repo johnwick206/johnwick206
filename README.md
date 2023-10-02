@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Bhavesh Dhake aka @wickywanka</h1>
-<h3 align="center">A 20 year old Cyber Security Enthusiast from India</h3>
+<h3 align="center">A 21 year old Cyber Security Enthusiast</h3>
+<h3 align="center">Currently a Grad student at CMU :) </h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wickywanka&theme=discord&no-frame=true" alt="wickywanka" /></a> </p>
 
