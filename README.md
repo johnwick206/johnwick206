@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <img hight="400" width="350" alt="GIF" align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
 
-- 🌱 I’m currently learning **Threat Intelligence and DFIR**
+- 🌱 I’m currently learning **Cloud Security, Threat Intelligence and DFIR**
 
 - 🤝 I’m looking for help with **Malware Analysis**
 
