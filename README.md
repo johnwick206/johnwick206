@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bdhake/](https://www.linkedin.com/in/bdhake/)
 
-- ⚡ Fun fact **I am a State Level Swimmer and I have a knack for Calisthenics, Gaming, and of course, Anime**
+- ⚡ Fun fact **I am a Competitive Swimmer and I have a knack for Calisthenics, Gaming, and of course, Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
